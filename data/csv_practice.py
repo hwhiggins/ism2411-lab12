@@ -1,5 +1,14 @@
 # Reflection Questions
 
+# 1: Python and Excel can both organize data, calculate totals, and create reports.
+# However, Python makes it easier to automate tasks, process large amounts of data,
+# and repeat the same steps without doing everything manually. Excel is easier
+# for quickly viewing data, making charts, and doing simple calculations.
+
+# 2: A business could use an append-mode log file to keep track of daily sales transactions.
+# Append mode is useful because it adds new information without deleting previous entries,
+# allowing the business to look back at past sales and keep a record over time.
+
 import csv
 from datetime import datetime
 
